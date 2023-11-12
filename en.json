@@ -1,0 +1,196 @@
+{
+    "number_selection_popup_helper":{
+        "heading": "Important info about your number",
+        "sub_heading_one": "1. Lorem ipsum dolor sit amet consectetur.",
+        "sub_heading_two": "2. Porttitor amet adipiscing non suscipit facilisi erat.",
+        "sub_heading_three": "3. Massa nunc in pellentesque porttitor eu amet."
+    },
+    "barcode_popup_helper":{
+        "heading"   : " Where to find the SIM bar code?",
+        "sub_heading": "Lorem ipsum dolor sit amet consectetur."
+    },
+    "esignature_popup":{
+        "heading"   : " Why we need you signature?",
+        "sub_heading": "Lorem ipsum dolor sit amet consectetur. Massa suscipit tortor magna aliquam varius leo. Amet molestie nisi volutpat facilisis elementum morbi."
+    },
+    "tabs":{
+        "verify_identity":"1. Verifying your identity",
+        "choose_your_number":"2. Choose your number",
+        "sign_your_app":"3. Sign your application", 
+        "done":"4. Done"
+    },
+    "sign_application":{
+        "step":"Step 3 of 3",
+        "heading":"Sign your application",
+        "agree":"I agree to T&Cs",
+        "proceed_btn":"Proceed",
+        "error_message":"You need to agree with T&Cs to proceed."
+    },
+    "popup_camera":{
+        "heading":"We need to access your camera",
+        "content":"Please go to your phone's settings and allow us to access your camera in order to record your ID card for verification.",
+        "icon":"src/assets/dropletpattern.png",
+        "proceed_btn":"Proceed"
+    },
+    "sim_scan":{
+        "step":"Step 3 of 3",
+        "heading":"Scan your SIM bar code",
+        "hint":"Hold your SIM bar code within the frame",
+        "place_holder":"or enter your 13 digit SIM bar code",
+        "bar_code":"13 digit SIM bar code",
+        "e_sim":"I need an eSIM",
+        "validated_hint":"SIM number validated"
+    },
+    "back_btn_sim_scan_done":{
+        "step":"Step 3 of 3",
+        "heading":"Here's what we have captured",
+        "hint":"Serial number",
+        "proceed_btn":"Proceed",
+        "redo_btn":"Redo SIM number scan"
+    },
+    "qid_popup_helper":{
+        "heading":"How to scan your {QID}?",
+        "sub_heading":"Lorem ipsum dolor sit amet consectetur. Massa suscipit tortor magna aliquam varius leo. Amet molestie nisi volutpat facilisis elementum morbi.",
+        "try_btn":"Try again",
+        "back_btn":"Go back",
+        "icon":"src/assets/dropletpattern.png"
+    },
+    "sim_popup_helper":{
+        "heading":"Where to find the SIM bar code?",
+        "sub_heading":"Lorem ipsum dolor sit amet consectetur. Massa suscipit tortor magna aliquam varius leo. Amet molestie nisi volutpat facilisis elementum morbi",
+        "try_btn":"Try again",
+        "back_btn":"Go back",
+        "icon":"src/assets/dropletpattern.png"
+    },
+    "all_set":{
+        "heading":"ALL SET!",
+        "sub_heading":"WELCOME",
+        "content":"Before we share your eSIM with number {77777777), here are some important informations you need to know.",
+        "points":["Lorem ipsum dolor sit amet consectetur.","Nunc felis vitae sed lacinia rhoncus pellentesque massa massa.","Aliquam volutpat tellus sapien mattis in. Mus massa quis duis id molestie amet tortor non est.","Suscipit mus ullamcorper dictum velit."],
+        "recharge_btn":"Recharge now",
+        "download_e_sim_btn":"Download eSIM"
+    },
+    "face_popup_helper":{
+        "heading":"How to take the perfect selfie?",
+        "sub_heading_one":"Lorem ipsum dolor sit amet consectetur.",
+        "sub_heading_two":"Porttitor amet adipiscing non suscipit facilisi erat.",
+        "sub_heading_three":"Massa nunc in pellentesque porttitor eu amet.",
+        "icon":"src/assets/dropletpattern.png",
+        "okay_btn":"OK",
+        "sub_heading_one_icon":"src/assets/dropletpattern.png",
+        "sub_heading_two_icon":"src/assets/dropletpattern.png",
+        "sub_heading_three_icon":"src/assets/dropletpattern.png"
+    },
+    "user_contacts":{
+        "heading":"Share your details",
+        "email":"Your email",
+        "number":"Alternate mobile number",
+        "number_error":"Invalid number",
+        "proceed_btn":"Proceed"
+    },
+    "face_verification":{
+        "step":"Step 2 of 3",
+        "heading":"Verifying your identity",
+        "suggestion":"Please, stay still. It'll take only a few seconds.",
+        "back_image":"src/assets/dropletpattern.png"
+    },
+    "face_verification_confirm":{
+        "step":"Step 2 of 3",
+        "heading":"Here's what we have captured",
+        "hint":"All set"
+    },
+    "face_verification_back":{
+        "step":"Step 2 of 3",
+        "heading":"Here's what we have captured",
+        "hint":"All set",
+        "proceed_btn":"Proceed",
+        "again_btn":"Redo face verification"
+    },
+    "face_verification_popup_error":{
+        "heading":"The maximum number of attempts (3) has been reached.",
+        "content":"Please enter your email and phone number. We will notify you on this contact details about the status of your verification.",
+        "email":"Your email",
+        "phone":"Your phone number",
+        "submit_btn":"Submit details & proceed",
+        "back_btn":"Go back",
+        "back_image":"src/assets/dropletpattern.png"
+    },
+    "face_verification_waiting":{
+        "step":"Step 2 of 3",
+        "heading":"Verifying your identity",
+        "message":"We won't be long.",
+        "details":"Please continue to wait while we are verifying you. You may have to repeat this step if you close the screen.",
+        "back_image":"src/assets/dropletpattern.png",
+        "image":"src/assets/dropletpattern.png"
+    },
+    "qid_scan_front":{
+        "step":"Step 2 of 3",
+        "heading":"Getting to know you",
+        "hint":"Hold the front side of your QID/Passport within the frame",
+        "back_image":"src/assets/dropletpattern.png",
+        "done":"All set"
+    },
+    "qid_scan_back":{
+        "step":"Step 2 of 3",
+        "heading":"Scan the back side of your QID",
+        "hint":"Hold the back side of your QID/Passport within the frame.",
+        "back_image":"src/assets/dropletpattern.png",
+        "done":"All set"
+    },
+    "id_scan_popup_error":{
+        "heading":"We were unable to capture the back side of your {QID}.",
+        "content":"Please hold still and try again.",
+        "try_btn":"Try again",
+        "back_btn":"Go back",
+        "back_image":"src/assets/dropletpattern.png",
+        "icon":"src/assets/dropletpattern.png"
+    },
+    "back_button_qid_scan":{
+        "step":"Step 2 of 3",
+        "heading":"Here's what we have captured of your QID",
+        "view_front_hint":"Tab to view front side",
+        "view_back_hint":"Tab to view back side",
+        "proceed_btn":"Proceed",
+        "again_btn":"Redo {QID} again",
+        "back_image":"src/assets/dropletpattern.png"
+    },
+    "back_passport":{
+        "step":"Step 2 of 3",
+        "heading":"Here's what we have captured of your Passport",
+        "hint":"Tap to view captured details",
+        "proceed_btn":"Proceed",
+        "again_btn":"Redo {Passport} again",
+        "back_image":"src/assets/dropletpattern.png"
+    },
+    "qid_details_front":{
+        "heading":"Your QID Front side",
+        "name":"name",
+        "qid_no":"QID number",
+        "expiry":"Expiry",
+        "dob":"Date of Birth",
+        "recapture_btn":"Recapture QID front side again"
+    },
+    "number_selection":{
+        "step":"Step 1 of 3",
+        "heading":"Choose your free number",
+        "revserved":"Number reserved for X mins",
+        "get_btn":"Get this free number",
+        "search_no":"Search or view all numbers"
+    },
+    "number_list":{
+        "step":"Step 1 of 3",
+        "heading":"Choose your free number",
+        "more":"more"
+    },
+    "home": {
+        "heading": "Join in just 3 steps!",
+        "sub_heading_one": "Identity verification",
+        "sub_heading_two":"Choose your number & enter your details",
+        "sub_heading_three":"Scan your SIM & Sign tour application",
+        "start_btn":"Let's start!",
+        "already_activate_heading":"Already activated your SIM?",
+        "already_activate_sub_heading":"Recharge now to start enjoying all services",
+        "recharge_link":"recharge now",
+        "image": "src/assets/dropletpattern.png"
+    }
+}
