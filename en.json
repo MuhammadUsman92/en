@@ -190,7 +190,10 @@
     "number_list":{
         "step":"Step 1 of 3",
         "heading":"Choose your free number",
-        "more":"more"
+        "more":"more",
+        "get":"Get",
+        "free":"free",
+        "get_btn":"Get"
     },
     "home": {
         "heading": "Join in just 3 steps!",
