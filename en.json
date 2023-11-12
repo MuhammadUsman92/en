@@ -169,7 +169,11 @@
         "back_image":"src/assets/dropletpattern.png"
     },
     "qid_details_front":{
-        "heading":"Your QID Front side",
+        "heading":"Your",
+        "qid":"QID",
+        "passport":"passport",
+        "font":"Front side",
+        "back":"Back side",
         "name":"name",
         "qid_no":"QID number",
         "expiry":"Expiry",
