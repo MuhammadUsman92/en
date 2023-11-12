@@ -1,0 +1,197 @@
+{
+    "esignature_popup": {
+        "heading": "لماذا نحتاج توقيعك؟",
+        "sub_heading": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور. ماسا سوسيبيت تورتور ماجنا أليكوام واريوس ليو. أميت موليستي نيسي فولوتبات فاسيليسيس إليمنتوم موربي."
+    },
+    "barcode_popup_helper": {
+        "heading": "أين تجد رمز الباركود لبطاقة الSIM؟",
+        "sub_heading": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور.",
+        "video_path": "src/assets/dropletpattern.png"
+    },
+    "number_selection_popup_helper": {
+        "heading": "معلومات مهمة حول رقمك",
+        "sub_heading_one": "١.لوريم إيبسوم دولور سيت أميت كونسيكتيتور",
+        "sub_heading_two": "بورتيتور أميت أديبيسينغ نون سوسيبيت فاسيليسي إيرات.",
+        "sub_heading_three": "ماسا نون في بيلينتيسكي بورتيتور إو أميت."
+    },
+    "tabs": {
+        "verify_identity": "١. التحقق من هويتك",
+        "choose_your_number": "٢. اختيار رقمك",
+        "sign_your_app": "٣. قم بتوقيع طلبك" ,
+        "done": "٤. تم"
+    },    
+    "sign_application": {
+        "step": "الخطوة ٣  من ٣ ",
+        "heading": "قم بتوقيع طلبك",
+        "agree": "أوافق على الشروط والأحكام",
+        "proceed_btn": "استمرار",
+        "error_message": "يجب أن توافق على الشروط والأحكام للمتابعة."
+    },
+    "popup_camera": {
+        "heading": "نحتاج إلى الوصول إلى كاميرا هاتفك",
+        "content": "الرجاء الانتقال إلى إعدادات هاتفك والسماح لنا بالوصول إلى الكاميرا لتسجيل بطاقتك الهوية للتحقق.",
+        "icon": "src/assets/dropletpattern.png",
+        "proceed_btn": "استمرار"
+    },
+    "sim_scan": {
+        "step": "الخطوة ٣  من ٣ ",
+        "heading": "مسح باركود بطاقة الشريحة",
+        "hint": "امسك باركود بطاقة الشريحة ضمن الإطار",
+        "place_holder": "أو أدخل رقم باركود بطاقة الشريحة المكون من ١٣ رقمًا",
+        "bar_code": "رقم باركود بطاقة الشريحة المكون من ١٣ رقمًا",
+        "e_sim": "أحتاج إلى eSIM",
+        "validated_hint": "تم التحقق من رقم الشريحة بنجاح"
+    },
+    "back_btn_sim_scan_done": {
+        "step": "الخطوة ٣  من ٣ ",
+        "heading": "إليك ما قمنا بالتقاطه",
+        "hint": "الرقم التسلسلي",
+        "proceed_btn": "استمرار",
+        "redo_btn": "إعادة مسح رقم الشريحة"
+    },
+    "qid_popup_helper": {
+        "heading": "كيفية مسح {QID} الخاص بك؟",
+        "sub_heading": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور. ماسا سوسيبيت تورتور ماغنا أليكوام فاريوس ليو. آميت موليستي نيسي فولوتبات فاسيليس إلمنتوم موربي.",
+        "try_btn": "حاول مرة أخرى",
+        "back_btn": "العودة",
+        "icon": "src/assets/dropletpattern.png"
+    },
+    "sim_popup_helper": {
+        "heading": "أين تجد باركود بطاقة الشريحة؟",
+        "sub_heading": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور. ماسا سوسيبيت تورتور ماغنا أليكوام فاريوس ليو. آميت موليستي نيسي فولوتبات فاسيليس إلمنتوم موربي",
+        "try_btn": "حاول مرة أخرى",
+        "back_btn": "العودة",
+        "icon": "src/assets/dropletpattern.png"
+    },
+    "all_set": {
+        "heading": "كل شيء جاهز!",
+        "sub_heading": "مرحبًا",
+        "content": "قبل مشاركة eSIM الخاص بك بالرقم {٧٧٧٧٧٧٧٧)، إليك بعض المعلومات الهامة التي تحتاج إلى معرفتها.",
+        "points": ["لوريم إيبسوم دولور سيت أميت كونسيكتيتور.", "نونك فيليس فيتا سيد لاسينيا رونكوس بيلينتيسكو ماسا ماسا.", "آليكوام فولوتبات تيلوس سابين ماتيس إن. موس ماسا كويس دويس إيد موليستي آميت تورتور نون إست.", "سوسيبيت موس أليكوام ديكتوم فيليت."],
+        "recharge_btn": "إعادة الشحن الآن",
+        "download_e_sim_btn": "تنزيل eSIM"
+    },
+    "face_popup_helper": {
+        "heading": "كيفية التقاط صورة سيلفي مثالية؟",
+        "sub_heading_one": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور.",
+        "sub_heading_two": "بورتيتور آميت أديبيسينج نون سوسيبيت فاسيليسي إيرات.",
+        "sub_heading_three": "ماسا نونك إن بيلينتيسكو بورتيتور آميت.",
+        "icon": "src/assets/dropletpattern.png",
+        "okay_btn": "موافق",
+        "sub_heading_one_icon": "src/assets/dropletpattern.png",
+        "sub_heading_two_icon": "src/assets/dropletpattern.png",
+        "sub_heading_three_icon": "src/assets/dropletpattern.png"
+    },
+    "user_contacts": {
+        "heading": "شارك تفاصيلك",
+        "email": "بريدك الإلكتروني",
+        "number": "رقم هاتفك البديل",
+        "number_error": "رقم غير صالح",
+        "proceed_btn": "استمرار"
+    },
+    "face_verification": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "التحقق من هويتك",
+        "suggestion": "من فضلك، ابقى ساكن. سيستغرق ذلك بضع ثوانٍ فقط.",
+        "back_image": "src/assets/dropletpattern.png"
+    },
+    "face_verification_confirm": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "إليك ما قمنا بالتقاطه",
+        "hint": "جاهز"
+    },
+    "face_verification_back": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "إليك ما قمنا بالتقاطه",
+        "hint": "جاهز",
+        "proceed_btn": "استمرار",
+        "again_btn": "إعادة التحقق من الوجه"
+    },
+    "face_verification_popup_error": {
+        "heading": "تم الوصول إلى الحد الأقصى لعدد المحاولات (٣ ).",
+        "content": "الرجاء إدخال بريدك الإلكتروني ورقم هاتفك. سنقوم بإعلامك على هذه التفاصيل الاتصال بحالة التحقق الخاصة بك.",
+        "email": "بريدك الإلكتروني",
+        "phone": "رقم هاتفك",
+        "submit_btn": "إرسال التفاصيل والاستمرار",
+        "back_btn": "العودة",
+        "back_image": "src/assets/dropletpattern.png"
+    },
+    "face_verification_waiting": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "جاري التحقق من هويتك",
+        "message": "لن نستغرق وقتًا طويلاً.",
+        "details": "الرجاء الانتظار مستمرًا بينما نقوم بالتحقق من هويتك. قد تحتاج إلى تكرار هذه الخطوة إذا قمت بإغلاق الشاشة.",
+        "back_image": "src/assets/dropletpattern.png",
+        "image": "src/assets/dropletpattern.png"
+    },
+    "qid_scan_front": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "التعرف عليك",
+        "hint": "امسك الجهة الأمامية لبطاقة الهوية أو الجواز ضمن الإطار",
+        "back_image": "src/assets/dropletpattern.png",
+        "done": "جاهز"
+    },
+    "qid_scan_back": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "مسح الجهة الخلفية لبطاقة الهوية أو الجواز",
+        "hint": "امسك الجهة الخلفية لبطاقة الهوية أو الجواز ضمن الإطار.",
+        "back_image": "src/assets/dropletpattern.png",
+        "done": "جاهز"
+    },
+    "id_scan_popup_error": {
+        "heading": "لم نتمكن من التقاط الجهة الخلفية لـ {QID} الخاص بك.",
+        "content": "الرجاء الاستمرار في الثبات والمحاولة مرة أخرى.",
+        "try_btn": "حاول مرة أخرى",
+        "back_btn": "العودة",
+        "back_image": "src/assets/dropletpattern.png",
+        "icon": "src/assets/dropletpattern.png"
+    },
+    "back_button_qid_scan": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "إليك ما قمنا بالتقاطه من بطاقتك الهوية",
+        "view_front_hint": "انقر لعرض الجهة الأمامية",
+        "view_back_hint": "انقر لعرض الجهة الخلفية",
+        "proceed_btn": "استمرار",
+        "again_btn": "إعادة {QID} مرة أخرى",
+        "back_image": "src/assets/dropletpattern.png"
+    },
+    "back_passport": {
+        "step": "الخطوة ٢ من ٣ ",
+        "heading": "إليك ما قمنا بالتقاطه من جواز السفر الخاص بك",
+        "hint": "انقر لعرض التفاصيل الملتقطة",
+        "proceed_btn": "استمرار",
+        "again_btn": "إعادة {Passport} مرة أخرى",
+        "back_image": "src/assets/dropletpattern.png"
+    },
+    "qid_details_front": {
+        "heading": "الجهة الأمامية لبطاقة الهوية الخاصة بك",
+        "name": "الاسم",
+        "qid_no": "رقم البطاقة الشخصية",
+        "expiry": "تاريخ الانتهاء",
+        "dob": "تاريخ الميلاد",
+        "recapture_btn": "إعادة التقاط الجهة الأمامية لبطاقة الهوية مرة أخرى"
+    },
+    "number_selection": {
+        "step": "الخطوة ١ من ٣ ",
+        "heading": "اختر رقمك المجاني",
+        "revserved": "الرقم محجوز لمدة {X} دقيقة",
+        "get_btn": "احصل على هذا الرقم المجاني",
+        "search_no": "البحث أو عرض جميع الأرقام"
+    },
+    "number_list": {
+        "step": "الخطوة ١ من ٣ ",
+        "heading": "اختر رقمك المجاني",
+        "more": "المزيد"
+    },
+    "home": {
+        "heading": "انضم في ٣  خطوات فقط!",
+        "sub_heading_one": "التحقق من الهوية",
+        "sub_heading_two": "اختر رقمك وأدخل تفاصيلك",
+        "sub_heading_three": "مسح بطاقة الشريحة الخاصة بك وقم بتوقيع طلبك",
+        "start_btn": "لنبدأ!",
+        "already_activate_heading": "هل قمت بتنشيط بطاقة الشريحة بالفعل؟",
+        "already_activate_sub_heading": "أعد شحنها الآن للاستمتاع بجميع الخدمات",
+        "recharge_link": "أعد شحن الآن",
+        "image": "src/assets/dropletpattern.png"
+    }
+}
