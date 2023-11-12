@@ -174,7 +174,7 @@
         "passport":"passport",
         "font":"Front side",
         "back":"Back side",
-        "name":"name",
+        "name":"Name",
         "qid_no":"QID number",
         "expiry":"Expiry",
         "dob":"Date of Birth",
