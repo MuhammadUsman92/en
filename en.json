@@ -178,7 +178,9 @@
         "qid_no":"QID number",
         "expiry":"Expiry",
         "dob":"Date of Birth",
-        "recapture_btn":"Recapture QID front side again"
+        "redo_fornt_btn":"Redo front side again",
+        "redo_back_btn":"Redo back side again",
+        "redo_btn":"Redo again"
     },
     "number_selection":{
         "step":"Step 1 of 3",
