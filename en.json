@@ -12,7 +12,8 @@
     },
     "barcode_popup_helper":{
         "heading"   : " Where to find the SIM bar code?",
-        "sub_heading": "Lorem ipsum dolor sit amet consectetur."
+        "sub_heading": "Lorem ipsum dolor sit amet consectetur.",
+        "video_path":"src/assets/dropletpattern.png"
     },
     "esignature_popup":{
         "heading"   : " Why we need you signature?",
