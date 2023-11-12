@@ -1,4 +1,8 @@
 {
+    "contact_detail_popup":{
+        "heading":"Why we need these details?",
+        "sub_heading":"Lorem ipsum dolor sit amet consectetur. Massa suscipit tortor magna aliquam varius leo. Amet molestie nisi volutpat facilisis elementum morbi."
+    },    
     "number_selection_popup_helper":{
         "heading": "Important info about your number",
         "sub_heading_one": "1. Lorem ipsum dolor sit amet consectetur.",
