@@ -95,18 +95,18 @@
         "proceed_btn": "استمرار"
     },
     "face_verification": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "التحقق من هويتك",
         "suggestion": "من فضلك، ابقى ساكن. سيستغرق ذلك بضع ثوانٍ فقط.",
         "back_image": "src/assets/dropletpattern.png"
     },
     "face_verification_confirm": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "إليك ما قمنا بالتقاطه",
         "hint": "جاهز"
     },
     "face_verification_back": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "إليك ما قمنا بالتقاطه",
         "hint": "جاهز",
         "proceed_btn": "استمرار",
@@ -122,7 +122,7 @@
         "back_image": "src/assets/dropletpattern.png"
     },
     "face_verification_waiting": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "جاري التحقق من هويتك",
         "message": "لن نستغرق وقتًا طويلاً.",
         "details": "الرجاء الانتظار مستمرًا بينما نقوم بالتحقق من هويتك. قد تحتاج إلى تكرار هذه الخطوة إذا قمت بإغلاق الشاشة.",
@@ -130,14 +130,14 @@
         "image": "src/assets/dropletpattern.png"
     },
     "qid_scan_front": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "التعرف عليك",
         "hint": "امسك الجهة الأمامية لبطاقة الهوية أو الجواز ضمن الإطار",
         "back_image": "src/assets/dropletpattern.png",
         "done": "جاهز"
     },
     "qid_scan_back": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "مسح الجهة الخلفية لبطاقة الهوية أو الجواز",
         "hint": "امسك الجهة الخلفية لبطاقة الهوية أو الجواز ضمن الإطار.",
         "back_image": "src/assets/dropletpattern.png",
@@ -152,7 +152,7 @@
         "icon": "src/assets/dropletpattern.png"
     },
     "back_button_qid_scan": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "إليك ما قمنا بالتقاطه من بطاقتك الهوية",
         "view_front_hint": "انقر لعرض الجهة الأمامية",
         "view_back_hint": "انقر لعرض الجهة الخلفية",
@@ -161,7 +161,7 @@
         "back_image": "src/assets/dropletpattern.png"
     },
     "back_passport": {
-        "step": "الخطوة ٢ من ٣ ",
+        "step": "الخطوة ١ من ٣ ",
         "heading": "إليك ما قمنا بالتقاطه من جواز السفر الخاص بك",
         "hint": "انقر لعرض التفاصيل الملتقطة",
         "proceed_btn": "استمرار",
@@ -183,14 +183,14 @@
         "redo_btn":"أعد مرة أخرى"
     },
     "number_selection": {
-        "step": "الخطوة ١ من ٣ ",
+        "step": "الخطوة ٢ من ٣ ",
         "heading": "اختر رقمك المجاني",
         "revserved": "الرقم محجوز لمدة {X} دقيقة",
         "get_btn": "احصل على هذا الرقم المجاني",
         "search_no": "البحث أو عرض جميع الأرقام"
     },
     "number_list": {
-        "step": "الخطوة ١ من ٣ ",
+        "step": "الخطوة ٢ من ٣ ",
         "heading": "اختر رقمك المجاني",
         "more": "تحميل المزيد",
         "get":"يحصل",
