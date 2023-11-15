@@ -28,7 +28,8 @@
     "sign_application":{
         "step":"Step 3 of 3",
         "heading":"Sign your application",
-        "agree":"I agree to T&Cs",
+        "agree":"I agree to",
+        "tcs":"T&Cs",
         "proceed_btn":"Proceed",
         "error_message":"You need to agree with T&Cs to proceed."
     },
