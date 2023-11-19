@@ -36,7 +36,7 @@
     "popup_camera":{
         "heading":"We need to access your camera",
         "content":"Please go to your phone's settings and allow us to access your camera in order to record your ID card for verification.",
-        "icon":"src/assets/dropletpattern.png",
+        "icon":"http://cmsservice.jhent.org/api/files/download?fileName=camera.png",
         "proceed_btn":"Proceed"
     },
     "sim_scan":{
@@ -46,14 +46,17 @@
         "place_holder":"or enter your 13 digit SIM bar code",
         "bar_code":"13 digit SIM bar code",
         "e_sim":"I need an eSIM",
-        "validated_hint":"SIM number validated"
+        "validated_hint":"SIM number validated",
+        "e_sim_icon":"http://cmsservice.jhent.org/api/files/download?fileName=e-sim-card.png",
+        "e_sim_bg":"http://cmsservice.jhent.org/api/files/download?fileName=leaf.png"
     },
     "back_btn_sim_scan_done":{
         "step":"Step 3 of 3",
         "heading":"Here's what we have captured",
         "hint":"Serial number",
         "proceed_btn":"Proceed",
-        "redo_btn":"Redo SIM number scan"
+        "redo_btn":"Redo SIM number scan",
+        "scanned_bar_code":"http://cmsservice.jhent.org/api/files/download?fileName=scanned_bar_code.png"
     },
     "qid_popup_helper":{
         "heading":"How to scan your {QID}?",
@@ -75,7 +78,8 @@
         "content":"Before we share your eSIM with number {77777777), here are some important informations you need to know.",
         "points":["Lorem ipsum dolor sit amet consectetur.","Nunc felis vitae sed lacinia rhoncus pellentesque massa massa.","Aliquam volutpat tellus sapien mattis in. Mus massa quis duis id molestie amet tortor non est.","Suscipit mus ullamcorper dictum velit."],
         "recharge_btn":"Recharge now",
-        "download_e_sim_btn":"Download eSIM"
+        "download_e_sim_btn":"Download eSIM",
+        "all_set":"http://cmsservice.jhent.org/api/files/download?fileName=all_set.png"
     },
     "face_popup_helper":{
         "heading":"How to take the perfect selfie?",
@@ -84,9 +88,9 @@
         "sub_heading_three":"Massa nunc in pellentesque porttitor eu amet.",
         "icon":"src/assets/dropletpattern.png",
         "okay_btn":"OK",
-        "sub_heading_one_icon":"src/assets/dropletpattern.png",
-        "sub_heading_two_icon":"src/assets/dropletpattern.png",
-        "sub_heading_three_icon":"src/assets/dropletpattern.png"
+        "sub_heading_one_icon":"http://cmsservice.jhent.org/api/files/download?fileName=camera.png",
+        "sub_heading_two_icon":"http://cmsservice.jhent.org/api/files/download?fileName=user-scan.png",
+        "sub_heading_three_icon":"http://cmsservice.jhent.org/api/files/download?fileName=tick.png"
     },
     "user_contacts":{
         "heading":"Share your details",
@@ -207,6 +211,12 @@
         "already_activate_heading":"Already activated your SIM?",
         "already_activate_sub_heading":"Recharge now to start enjoying all services",
         "recharge_link":"recharge now",
-        "image": "src/assets/dropletpattern.png"
+        "image": "src/assets/dropletpattern.png",
+        "logo":"http://cmsservice.jhent.org/api/files/download?fileName=droplet.png",
+        "reddot_main":"http://cmsservice.jhent.org/api/files/download?fileName=reddotbgmail.png",
+        "black_droplet_pattern":"http://cmsservice.jhent.org/api/files/download?fileName=dropletpattern.png",
+        "footer_bg":"http://cmsservice.jhent.org/api/files/download?fileName=footerblackdot.png",
+        "modal_footer_pattern":"http://cmsservice.jhent.org/api/files/download?fileName=reddotbg.png",
+        "vodafone_text":"http://cmsservice.jhent.org/api/files/download?fileName=vodafone_text.png"        
     }
 }
