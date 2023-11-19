@@ -1,5 +1,5 @@
 {
-    "welcome_to_vodafone":"مرحبا بكم في فودافون",
+    "welcome_to_vodafone": "مرحبا بكم في فودافون",
     "contact_detail_popup": {
         "heading": "لماذا نحتاج إلى هذه التفاصيل؟",
         "sub_heading": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور. ماسا سوسيبيت تورتور ماجنا أليكوام فاريوس ليو. أميت موليستي نيسي فولوتبات فاسيليسيس إليمنتوم موربي."
@@ -22,21 +22,21 @@
     "tabs": {
         "verify_identity": "١. التحقق من هويتك",
         "choose_your_number": "٢. اختيار رقمك",
-        "sign_your_app": "٣. قم بتوقيع طلبك" ,
+        "sign_your_app": "٣. قم بتوقيع طلبك",
         "done": "٤. تم"
-    },    
+    },
     "sign_application": {
         "step": "الخطوة ٣  من ٣ ",
         "heading": "قم بتوقيع طلبك",
         "agree": "أوافق علىم",
-        "tcs":"الشروط والأحكام"
+        "tcs": "الشروط والأحكام",
         "proceed_btn": "استمرار",
         "error_message": "يجب أن توافق على الشروط والأحكام للمتابعة."
     },
     "popup_camera": {
         "heading": "نحتاج إلى الوصول إلى كاميرا هاتفك",
         "content": "الرجاء الانتقال إلى إعدادات هاتفك والسماح لنا بالوصول إلى الكاميرا لتسجيل بطاقتك الهوية للتحقق.",
-        "icon": "src/assets/dropletpattern.png",
+        "icon": "http://cmsservice.jhent.org/api/files/download?fileName=camera.png",
         "proceed_btn": "استمرار"
     },
     "sim_scan": {
@@ -46,6 +46,8 @@
         "place_holder": "أو أدخل رقم باركود بطاقة الشريحة المكون من ١٣ رقمًا",
         "bar_code": "رقم باركود بطاقة الشريحة المكون من ١٣ رقمًا",
         "e_sim": "أحتاج إلى eSIM",
+        "e_sim_bg": "http://cmsservice.jhent.org/api/files/download?fileName=leaf.png",
+        "e_sim_icon": "http://cmsservice.jhent.org/api/files/download?fileName=e-sim-card.png",
         "validated_hint": "تم التحقق من رقم الشريحة بنجاح"
     },
     "back_btn_sim_scan_done": {
@@ -53,7 +55,8 @@
         "heading": "إليك ما قمنا بالتقاطه",
         "hint": "الرقم التسلسلي",
         "proceed_btn": "استمرار",
-        "redo_btn": "إعادة مسح رقم الشريحة"
+        "redo_btn": "إعادة مسح رقم الشريحة",
+        "scanned_bar_code": "http://cmsservice.jhent.org/api/files/download?fileName=scanned_bar_code.png"
     },
     "qid_popup_helper": {
         "heading": "كيفية مسح {QID} الخاص بك؟",
@@ -72,8 +75,14 @@
     "all_set": {
         "heading": "كل شيء جاهز!",
         "sub_heading": "مرحبًا",
+        "all_set": "http://cmsservice.jhent.org/api/files/download?fileName=all_set.png",
         "content": "قبل مشاركة eSIM الخاص بك بالرقم {٧٧٧٧٧٧٧٧)، إليك بعض المعلومات الهامة التي تحتاج إلى معرفتها.",
-        "points": ["لوريم إيبسوم دولور سيت أميت كونسيكتيتور.", "نونك فيليس فيتا سيد لاسينيا رونكوس بيلينتيسكو ماسا ماسا.", "آليكوام فولوتبات تيلوس سابين ماتيس إن. موس ماسا كويس دويس إيد موليستي آميت تورتور نون إست.", "سوسيبيت موس أليكوام ديكتوم فيليت."],
+        "points": [
+            "لوريم إيبسوم دولور سيت أميت كونسيكتيتور.",
+            "نونك فيليس فيتا سيد لاسينيا رونكوس بيلينتيسكو ماسا ماسا.",
+            "آليكوام فولوتبات تيلوس سابين ماتيس إن. موس ماسا كويس دويس إيد موليستي آميت تورتور نون إست.",
+            "سوسيبيت موس أليكوام ديكتوم فيليت."
+        ],
         "recharge_btn": "إعادة الشحن الآن",
         "download_e_sim_btn": "تنزيل eSIM"
     },
@@ -84,9 +93,9 @@
         "sub_heading_three": "ماسا نونك إن بيلينتيسكو بورتيتور آميت.",
         "icon": "src/assets/dropletpattern.png",
         "okay_btn": "موافق",
-        "sub_heading_one_icon": "src/assets/dropletpattern.png",
-        "sub_heading_two_icon": "src/assets/dropletpattern.png",
-        "sub_heading_three_icon": "src/assets/dropletpattern.png"
+        "sub_heading_one_icon":"http://cmsservice.jhent.org/api/files/download?fileName=camera.png",
+        "sub_heading_two_icon":"http://cmsservice.jhent.org/api/files/download?fileName=user-scan.png",
+        "sub_heading_three_icon":"http://cmsservice.jhent.org/api/files/download?fileName=tick.png"
     },
     "user_contacts": {
         "heading": "شارك تفاصيلك",
@@ -171,17 +180,17 @@
     },
     "qid_details_front": {
         "heading": "الجهة الأمامية لبطاقة الهوية الخاصة بك",
-        "qid":"البطاقة الشخصية",
-        "passport":"جواز سفر",
-        "font":"الجانب الامامي",
-        "back":"الجانب الخلفي",
+        "qid": "البطاقة الشخصية",
+        "passport": "جواز سفر",
+        "font": "الجانب الامامي",
+        "back": "الجانب الخلفي",
         "name": "الاسم",
         "qid_no": "رقم البطاقة الشخصية",
         "expiry": "تاريخ الانتهاء",
         "dob": "تاريخ الميلاد",
-        "redo_fornt_btn":"إعادة الجانب الأمامي مرة أخرى",
-        "redo_back_btn":"إعادة الجانب الخلفي مرة أخرى",
-        "redo_btn":"أعد مرة أخرى"
+        "redo_fornt_btn": "إعادة الجانب الأمامي مرة أخرى",
+        "redo_back_btn": "إعادة الجانب الخلفي مرة أخرى",
+        "redo_btn": "أعد مرة أخرى"
     },
     "number_selection": {
         "step": "الخطوة ٢ من ٣ ",
@@ -194,9 +203,9 @@
         "step": "الخطوة ٢ من ٣ ",
         "heading": "اختر رقمك المجاني",
         "more": "تحميل المزيد",
-        "get":"يحصل",
-        "free":"حر",
-        "get_btn":"يحصل"
+        "get": "يحصل",
+        "free": "حر",
+        "get_btn": "يحصل"
     },
     "home": {
         "heading": "انضم في ٣  خطوات فقط!",
@@ -207,6 +216,12 @@
         "already_activate_heading": "هل قمت بتنشيط بطاقة الشريحة بالفعل؟",
         "already_activate_sub_heading": "أعد شحنها الآن للاستمتاع بجميع الخدمات",
         "recharge_link": "أعد شحن الآن",
+        "black_droplet_pattern": "http://cmsservice.jhent.org/api/files/download?fileName=dropletpattern.png",
+        "footer_bg": "http://cmsservice.jhent.org/api/files/download?fileName=footerblackdot.png",
+        "logo": "http://cmsservice.jhent.org/api/files/download?fileName=droplet.png",
+        "modal_footer_pattern": "http://cmsservice.jhent.org/api/files/download?fileName=reddotbg.png",
+        "reddot_main": "http://cmsservice.jhent.org/api/files/download?fileName=reddotbgmail.png",
+        "vodafone_text": "http://cmsservice.jhent.org/api/files/download?fileName=vodafone_text.png",
         "image": "src/assets/dropletpattern.png"
     }
 }
